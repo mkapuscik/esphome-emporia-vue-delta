@@ -50,8 +50,8 @@ EmporiaVueUpdateTrigger = emporia_vue_ns.class_(
 
 PhaseInputWire = emporia_vue_ns.enum("PhaseInputWire")
 PHASE_INPUT = {
-    "BLACK": PhaseInputWire.BLACK,
-    "RED": PhaseInputWire.RED,
+    "BLACK": PhaseInputWire.RED,
+    "RED": PhaseInputWire.BLACK,
     "BLUE": PhaseInputWire.BLUE,
 }
 
