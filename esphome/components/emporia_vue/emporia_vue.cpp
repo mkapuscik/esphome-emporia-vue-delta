@@ -18,7 +18,7 @@ void EmporiaVueComponent::dump_config() {
         wire = "BLACK";
         break;
       case PhaseInputWire::RED:
-        wire = "RED";
+        wire = "BLUE";
         break;
       case PhaseInputWire::BLUE:
         wire = "BLUE";
